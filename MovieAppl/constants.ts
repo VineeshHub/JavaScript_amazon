@@ -3,13 +3,13 @@ import { Movie, Theater, Seat } from './types';
 export const MOVIES: Movie[] = [
   {
     id: '1',
-    title: 'Interstellar Odyssey',
+    title: 'They Call Him Og',
     genre: ['Sci-Fi', 'Adventure'],
     duration: '2h 45m',
     rating: 9.2,
     language: 'English',
-    posterUrl: 'https://picsum.photos/300/450?random=1',
-    backdropUrl: 'https://picsum.photos/800/400?random=1',
+    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxYb7Dktpt16dg2epsXshL5vP9Vos2YYncoZJLpqmKg&s',
+    backdropUrl: 'https://static.toiimg.com/thumb/msid-110723572,width-1280,height-720,imgsize-1551804,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg',
     synopsis: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanity\'s survival. Visuals that will blow your mind.',
     cast: ['Matthew McC', 'Anne Hath', 'Jessica Ch'],
     releaseDate: '2024-10-15'
